@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="15.993721mm"
+   height="15.993721mm"
+   viewBox="0 0 15.993721 15.993721"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="deleteButton.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="false"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showborder="false"
+     borderlayer="false"
+     shape-rendering="auto"
+     inkscape:zoom="6.7329808"
+     inkscape:cx="-49.829342"
+     inkscape:cy="43.591391"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1159" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-70.692667,-110.61792)">
+    <g
+       id="g1159"
+       transform="rotate(45,78.689522,118.61478)">
+      <circle
+         style="fill:#fa4646;fill-opacity:1;stroke:#4b4b4b;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         id="path163-7"
+         cx="78.689522"
+         cy="118.61478"
+         r="7.5" />
+      <g
+         id="g1116-4"
+         transform="matrix(0.8,0,0,0.8,14.603032,45.77153)"
+         style="stroke-width:2.5;stroke-dasharray:none">
+        <path
+           style="fill:#b90505;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-dasharray:none;stroke-opacity:1"
+           d="M 80.108106,83.554053 V 98.554052"
+           id="path1110-2" />
+        <path
+           style="fill:#b90505;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-dasharray:none;stroke-opacity:1"
+           d="M 87.608107,91.054054 H 72.608108"
+           id="path1112-2" />
+      </g>
+    </g>
+  </g>
+</svg>
